@@ -1,0 +1,8 @@
+buenos-aires-housing-prices/
+├── data/ # Dataset files
+├── notebooks/ # Jupyter notebooks
+├── src/ # Python scripts
+├── results/ # Output and figures
+├── README.md
+├── requirements.txt
+└── .gitignore
