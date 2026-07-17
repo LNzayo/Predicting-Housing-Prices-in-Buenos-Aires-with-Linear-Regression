@@ -61,4 +61,7 @@ A comprehensive machine learning project that predicts housing prices in Buenos 
 | **Machine Learning** | Scikit-learn |
 | **Development** | Jupyter Notebook, Python 3.8+ |
 
+### 🔗 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LNzayo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luzuko-nzayo-729735104)
 
