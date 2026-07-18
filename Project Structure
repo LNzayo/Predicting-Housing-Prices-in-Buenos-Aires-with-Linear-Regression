@@ -1,8 +1,39 @@
 buenos-aires-housing-prices/
-├── data/ # Dataset files
-├── notebooks/ # Jupyter notebooks
-├── src/ # Python scripts
-├── results/ # Output and figures
-├── README.md
-├── requirements.txt
-└── .gitignore
+│
+├── 📁 data/                      # Data directory
+│   ├── 📁 raw/                   # Raw data files
+│   │   └── properati_ba.csv      # Original dataset
+│   └── 📁 processed/             # Processed data
+│       └── processed_data.csv    # Cleaned and engineered data
+│
+├── 📁 notebooks/                 # Jupyter notebooks
+│   └── 01_exploratory_data_analysis.ipynb  # Complete EDA
+│
+├── 📁 src/                       # Source code
+│   ├── __init__.py
+│   ├── data_preprocessing.py     # Data cleaning and preprocessing
+│   ├── feature_engineering.py    # Feature creation and transformation
+│   ├── model_training.py         # Model training and evaluation
+│   └── utils.py                  # Utility functions and visualizations
+│
+├── 📁 scripts/                   # Execution scripts
+│   ├── download_data.py          # Data download script
+│   └── run_pipeline.py           # Complete pipeline execution
+│
+├── 📁 models/                    # Saved models
+│   └── housing_price_model.joblib  # Trained model
+│
+├── 📁 tests/                     # Unit tests
+│   ├── test_data_preprocessing.py
+│   └── test_model.py
+│
+├── 📁 reports/                   # Generated reports
+│   └── 📁 figures/               # Visualizations
+│       ├── price_distribution.png
+│       ├── correlation_matrix.png
+│       ├── actual_vs_predicted.png
+│       └── feature_importance.png
+│
+├── 📄 README.md                  # This file
+├── 📄 requirements.txt           # Project dependencies
+└── 📄 .gitignore                # Git ignore file
