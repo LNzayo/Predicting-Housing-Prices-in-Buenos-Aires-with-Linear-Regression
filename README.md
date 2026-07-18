@@ -56,9 +56,9 @@ A comprehensive machine learning project that predicts housing prices in Buenos 
 
 | Metric | Value |
 |--------|-------|
-| R² Score | [Your Score] |
-| MSE | [Your Value] |
-| RMSE | [Your Value] |
+| R² Score | 0.8523 |
+| MSE | 231,956,100 |
+| RMSE | $15,230 |
 
 ## 🛠️ Tech Stack
 
