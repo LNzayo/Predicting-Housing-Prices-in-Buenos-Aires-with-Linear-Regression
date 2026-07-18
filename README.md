@@ -1,6 +1,14 @@
 # 🏠 Predicting Housing Prices in Buenos Aires with Linear-Regression
 
-Predicting housing prices in Buenos Aires using Linear Regression. Complete ML pipeline: data cleaning, EDA, feature engineering with one-hot encoding, model training, and evaluation. Built with Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+This project implements a complete machine learning pipeline to predict housing prices in Buenos Aires, Argentina. It demonstrates professional-grade data science practices including data collection, exploratory analysis, feature engineering, model training with regularization techniques, and comprehensive evaluation.
+
+### 🎯 Business Impact
+
+- **Real Estate Valuation**: Provides accurate property price estimates for buyers, sellers, and investors
+- **Market Analysis**: Identifies key factors driving property prices in Buenos Aires neighborhoods
+- **Decision Support**: Enables data-driven real estate investment decisions
+- **Transparency**: Creates a transparent pricing benchmark for the Buenos Aires property market
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3+-green.svg)](https://pandas.pydata.org/)
