@@ -33,7 +33,7 @@ A comprehensive machine learning project that predicts housing prices in Buenos 
 - **Source**: Buenos Aires property listings
 - **Target Variable**: `price_aprox_usd`
 - **Features**: Neighborhood, property size, rooms, etc.
-- **Size**: [Your dataset size]
+- **Size**: 8,750 Properties
 
 ## 📈 Methodology
 
